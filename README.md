@@ -11,19 +11,25 @@ This project allows users to upload an image and generate a description using Ol
 * User-friendly Streamlit interface
 
 ## 🛠 Installation
+To get started, install Ollama by following these steps:
 
-### 1. Install Required Packages
-```
-pip install streamlit ollama
-```
-
-### 2. Install Ollama
+### 1. Install Ollama
 Download and install [Ollama](https://ollama.com/) from the official website:
 
-### 3. Verify Installation
+### 2. Verify Installation
 Ensure Ollama is correctly installed by running:
 ```
 ollama --version
+```
+
+### 3. Pull a Model
+```
+ollama pull llama3.2-vision
+```
+
+### 4. Install Required Packages
+```
+pip install streamlit ollama
 ```
 
 ## 🎯 How to Use
