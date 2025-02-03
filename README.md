@@ -1,6 +1,7 @@
 # 📸 Describe Image with Ollama
 
 This project allows users to upload an image and generate a description using Ollama's llama3.2-vision model. The app is built using Streamlit for a simple and interactive user experience.
+![img](describeimg.jpg)
 
 ## 🚀 Features
 * Upload an image in JPG, PNG, or JPEG format
