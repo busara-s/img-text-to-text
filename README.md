@@ -14,7 +14,7 @@ This project allows users to upload an image and generate a description using Ol
 
 ### 1. Install Required Packages
 ```
-pip install install streamlit ollama
+pip install streamlit ollama
 ```
 
 ### 2. Install Ollama
